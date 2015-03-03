@@ -8,7 +8,7 @@ Also included are the scripts which were used to automate black box and white bo
 
 Notes & Credit
 ===========
-Quinterac and its rights belong to Peter Ju and Bastian Escaich.
+Quinterac and its rights belong to Peter Ju and Bastien Escaich.
 
 More documentation of the testing is available upon request.
 
